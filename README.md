@@ -1,11 +1,11 @@
 # jekyll-casper
 
-[See a demo in GitHub Pages](https://jinmo.github.io/jekyll-casper)
+[See a demo in GitHub Pages](#)
 
 ## Installation
 
 ```sh
-git clone https://github.com/Jinmo/jekyll-casper
+git clone https://github.com/RemainderTime/jekyll-template
 ```
 
 ## Running a local server
