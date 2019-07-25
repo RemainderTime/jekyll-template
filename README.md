@@ -26,3 +26,6 @@ git push pages master
 ```
 git pull origin
 ```
+
+## Found in
+[jekyll-casper](https://github.com/Jinmo/jekyll-casper)
