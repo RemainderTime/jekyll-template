@@ -1,4 +1,4 @@
-# jekyll-casper
+# jekyll-template
 
 [See a demo in GitHub Pages](#)
 
